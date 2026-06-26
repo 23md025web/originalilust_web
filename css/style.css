@@ -1,0 +1,87 @@
+body {
+	background-color: #819BAE;
+}
+.contents {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(../index-images/contents-div.jpg);
+}
+main {
+	margin-left: 97px;
+	margin-right: 110px;
+}
+footer {
+	margin-top: 140px;
+}
+p   {
+	color: #3B4662;
+	text-align: justify;
+}
+.OC1   {
+	margin-top: 100px;
+}
+.OC1-flex {
+	margin-top: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.OC1-flex img  {
+	width: 359px;
+	height: 407px;
+}
+.OC1-flex p   {
+	width: 356px;
+	font-size: 18px;
+	line-height: 37px;
+}
+.OC2   {
+	margin-top: 140px;
+}
+.OC2-flex  {
+	margin-top: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.OC2-flex p {
+	width: 340px;
+	font-size: 18px;
+	line-height: 37px;
+	text-align: justify;
+}
+.OC2-flex img {
+	width: 390px;
+	height: 475px;
+}
+.OC3 {
+	margin-top: 140px;
+}
+.OC3-flex  {
+	margin-top: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.OC3-flex img {
+	width: 403px;
+	height: 452px;
+}
+.OC3-flex p   {
+	width: 311px;
+	font-size: 18px;
+	line-height: 37px;
+}
+.text {
+	width: 806px;
+	margin-top: 130px;
+	font-size: 18px;
+	line-height: 37px;
+	text-align: justify;
+}
+.contents footer {
+	width: 1000px;
+	height: 158px;
+	margin-top: 140px;
+}
